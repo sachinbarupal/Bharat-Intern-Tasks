@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 100px 200px;
+    text-align: center;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/back.jpg);
+    color: aliceblue;
+}
+.title{
+    font-size: 3em;
+    margin-bottom: 2em;
+    color: #222;
+}
+.h1{
+    color: wheat;
+    background-color: antiquewhite;
+}
+.input-div{
+    font-size: large;
+    color: black;
+    border-radius: 10px; 
+    box-shadow: 0 4px 15px black;
+    
+    min-width: 15em;
+    height: 6em;
+    background-color: whitesmoke;
+}
+.inp{
+    height:30px;
+    font-size:10pt;
+    text-align: center;
+}
